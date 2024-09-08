@@ -10,5 +10,4 @@ def main():
     print(f"List Of Original: {originalList}")
     print(f"List which odd numbers removed: {evenList}")
 
-if __name__ == "__main__":
-    main()
+main()

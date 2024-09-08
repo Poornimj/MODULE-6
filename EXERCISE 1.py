@@ -9,5 +9,4 @@ def main():
         rollResult = rollDice()
         print(f"Result of each rolled: {rollResult}")
 
-if __name__ == "__main__":
-    main()
+main()

@@ -31,5 +31,4 @@ def main():
     else:
         print("Both Pizzas provide the same value for money.")
 
-if __name__ == "__main__":
-    main()
+main()

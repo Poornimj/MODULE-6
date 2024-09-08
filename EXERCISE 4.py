@@ -7,5 +7,4 @@ def main():
     total = sumOfNumberList(numbers)
     print(f" The sum of the list {numbers} is: {total}")
 
-if __name__ == "__main__":
-    main()
+main()
